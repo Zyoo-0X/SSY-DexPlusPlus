@@ -1,4 +1,5 @@
-# Dex++
+# Dex++ Modded SSY Team
+Only work for SSY and QuickCMDS script
 ![Preview](./preview.png)
 
 Dex++ is an extended version of Moon's Dex, made to fulfill some Moon's Dex prophecy.
