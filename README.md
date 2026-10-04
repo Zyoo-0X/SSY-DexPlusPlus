@@ -1,4 +1,4 @@
-# Dex++ Modded SSY Team
+# Dex++ Modded SSY
 Only work for SSY and QuickCMDS script
 ![Preview](./preview.png)
 
